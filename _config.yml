@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "태훈이의 블로그"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "개발 개발 일지"# site tagline that appears below site title in masthead
 name                     : "이태훈"
 description              : "An amazing website."
 url                      : "https://LTHAHOON.github.io"
