@@ -117,11 +117,10 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : 
-  email            : "dlxogns8997@gmail.com" 
+  email            :  
   links:
     - label: "dlxogns8997@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dlxogns8997@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
